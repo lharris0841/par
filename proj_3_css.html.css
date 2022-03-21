@@ -1,0 +1,105 @@
+@charset "UTF-8";
+body {
+    background-color: #f9f9f9;
+  }
+.container{
+	max-width: 960px;
+	max-height: inherit;
+	margin: 0 auto;
+	background: #f9f9f9;
+	font-size: 24px;
+	padding: 25px;
+}
+.parallax{
+	background: url("images/norway4.jpg") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
+.header{
+    background: url("images/norway4.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    padding-left: 744px;
+    padding-bottom: 15px;
+    padding-right: 0px;
+    text-shadow: 1px 1px 34px #000000;
+}
+.header{
+	width: 856px;
+    height: 70px;
+    margin: auto;
+    background-color: #BABBCA;
+   
+}
+.parallax_two{
+	background: url("images/norway6.jpg") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
+.header_two{
+	background: url("images/norway6.jpg") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
+.header_two{
+    width: 1000px;
+    height: 40px;
+    margin: auto;
+    background-color: #8C8EA6;
+    padding-top: 2px;
+    padding-right: 0px;
+    padding-left: 8px;
+    padding-bottom: 13px;
+    top: auto;
+}
+
+.header_tres{
+	background: url("images/norway1.jpg") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
+.header_tres{
+    width: 1000px;
+    height: 40px;
+    margin: auto;
+    background-color: #8C8EA6;
+    padding-top: 2px;
+    padding-right: 0px;
+    padding-left: 8px;
+    padding-bottom: 13px;
+    top: auto;
+}
+.parallax_tres{
+	background: url("images/norway1.jpg") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
+.header_cuatro{
+	background: url("images/norway2.jpg") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
+.header_cuatro{
+    width: 1000px;
+    height: 40px;
+    margin: auto;
+    background-color: #8C8EA6;
+    padding-top: 2px;
+    padding-right: 0px;
+    padding-left: 8px;
+    padding-bottom: 13px;
+    top: auto;
+}
+.parallax_cuatro{
+	background: url("images/norway2.jpg") no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 500px;
+}
